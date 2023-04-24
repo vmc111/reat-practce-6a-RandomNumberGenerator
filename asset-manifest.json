@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reat-practce-6a-RandomNumberGenerator/static/css/main.71de74ac.chunk.css",
+    "main.js": "/reat-practce-6a-RandomNumberGenerator/static/js/main.7c0a8853.chunk.js",
+    "main.js.map": "/reat-practce-6a-RandomNumberGenerator/static/js/main.7c0a8853.chunk.js.map",
+    "runtime-main.js": "/reat-practce-6a-RandomNumberGenerator/static/js/runtime-main.03f726a9.js",
+    "runtime-main.js.map": "/reat-practce-6a-RandomNumberGenerator/static/js/runtime-main.03f726a9.js.map",
+    "static/js/2.44aa8a63.chunk.js": "/reat-practce-6a-RandomNumberGenerator/static/js/2.44aa8a63.chunk.js",
+    "static/js/2.44aa8a63.chunk.js.map": "/reat-practce-6a-RandomNumberGenerator/static/js/2.44aa8a63.chunk.js.map",
+    "index.html": "/reat-practce-6a-RandomNumberGenerator/index.html",
+    "static/css/main.71de74ac.chunk.css.map": "/reat-practce-6a-RandomNumberGenerator/static/css/main.71de74ac.chunk.css.map",
+    "static/js/2.44aa8a63.chunk.js.LICENSE.txt": "/reat-practce-6a-RandomNumberGenerator/static/js/2.44aa8a63.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03f726a9.js",
+    "static/js/2.44aa8a63.chunk.js",
+    "static/css/main.71de74ac.chunk.css",
+    "static/js/main.7c0a8853.chunk.js"
+  ]
+}
