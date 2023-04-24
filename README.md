@@ -1,5 +1,9 @@
 In this project, let's build a **Random Number Generator** by applying the concepts we have learned till now.
 
+
+<h4> View Web App: <span><a href="https://vmc111.github.io/reat-practce-6a-RandomNumberGenerator/" target="_blank" > here </a></span></h4>
+
+
 ### Refer to the image below:
 
 <br/>
